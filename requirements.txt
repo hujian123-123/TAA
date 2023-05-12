@@ -1,0 +1,10 @@
+pandas~=1.5.3
+geopy~=2.3.0
+torch~=1.12.0
+pillow~=9.4.0
+torchvision~=0.14.1
+requests~=2.25.1
+pyproj~=3.4.1
+streamlit~=1.22.0
+folium~=0.14.0
+ipython~=8.7.0
